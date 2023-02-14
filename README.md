@@ -1,2 +1,2 @@
-# TransformacionDigital
-Repositorio para "Trasformación digital de organizaciones de la sociedad civil".
+# Transformacion Digital
+## Repositorio para "Trasformación digital de organizaciones de la sociedad civil".
